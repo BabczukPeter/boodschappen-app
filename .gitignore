@@ -16,3 +16,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+src/*.OLD
+firebase-vite/node_modules
+firebase-vite/.env.local

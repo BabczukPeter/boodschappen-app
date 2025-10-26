@@ -1,0 +1,5 @@
+# Vite outputs
+dist
+node_modules
+*.local
+.env.local
